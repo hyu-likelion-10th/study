@@ -26,8 +26,8 @@
 <kbd>![예시2](Example2.png)</kbd>
 
 ### 제출방법 및 기한
-팀별 레포지터리에 week0/이름 으로 폴더를 만들고 index.html, styles.css 를 **4월 5일 밤 11:59**까지 업로드 해주세요. 
-- ex) week0/이정재/index.html, week0/이정재/styles.css
+팀별 레포지터리에 이름/week1 으로 폴더를 만들고 index.html, styles.css 를 **4월 5일 밤 11:59**까지 업로드 해주세요. 
+- ex) 이정재/week1/index.html, 이정재/week1/styles.css
 
 ### 참고할만한 사이트
 - [웹에디터 코드샌드박스(Vanila JS로 생성 및 작업)](https://codesandbox.io/)

@@ -2,7 +2,7 @@
 
 ## 주차 학습
 아래의 사이트를 참고하여 강의를 수강하시면 됩니다.
-- [Class Lion (웹 기초 ~ HTML/CSS 까지)](https://classlion.net/)
+- [Code Lion (일단 만드는 HTML/CSS 까지)](https://www.codelion.net/)
 
 같이 들으면 좋은 강의(선택사항)
 - [CSS - 생활코딩 (35강 flex 3 까지)](https://www.youtube.com/watch?v=ONcmkf07EuI&list=PLuHgQVnccGMDaVaBmkX0qfB45R_bYrV62)

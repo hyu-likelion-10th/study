@@ -36,7 +36,7 @@
 ### 제출방법 및 기한
 먼저 팀별 레포지터리에 이름/week1 으로 폴더를 만들고 그 안에 다시 resume 폴더와 namecard 폴더를 만들어주세요.
 
-resume 폴더에는 강의를 들으면서 따라만드신 index.html, styles.css 를 **4월 3일(일) 밤 11:59**올려주세요.  
+resume 폴더에는 강의를 들으면서 따라만드신 index.html, styles.css 를 **4월 3일(일) 밤 11:59**까지 업로드 해주세요. 
 - ex) 이정재/week1/resume/index.html, 이정재/week1/resume/styles.css
 
 naemcard 폴더에는 각자 만드신 명함에 관한 index.html, styles.css 를 **4월 5일(수) 밤 11:59**까지 업로드 해주세요. 

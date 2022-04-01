@@ -1,8 +1,8 @@
-# 웹 기초와 HTML/CSS
+# 일단 만드는 HTML/CSS
 
 ## 주차 학습
 아래의 사이트를 참고하여 강의를 수강하시면 됩니다.
-- [Class Lion (웹 기초 ~ HTML/CSS 까지)](https://classlion.net/)
+- [Code Lion (일단 만드는 HTML/CSS 까지)](https://www.codelion.net/)
 
 같이 들으면 좋은 강의(선택사항)
 - [CSS - 생활코딩 (35강 flex 3 까지)](https://www.youtube.com/watch?v=ONcmkf07EuI&list=PLuHgQVnccGMDaVaBmkX0qfB45R_bYrV62)
@@ -18,7 +18,7 @@
 [XD 디자인 링크](https://xd.adobe.com/view/201755dd-1a62-4939-af55-07d6e3bd293d-7544/)
 
 
-제출해주신 **명함을 3월 31일에 진행되는 중앙세션에서 "각자" 자랑**하고자 합니다. **개발자도구의 사용법**을 안다면, 잘 만들어진 웹 페이지를 보고 HTML과 CSS가 어떻게 적용되어 있는지 알 수 있고 css나 html을 실시간으로 수정 및 확인 할 수 있으니, 참고하시면 좋습니다. 장고를 배우면 해당 웹페이지를 응답하는 웹 서버를 제작할 예정이며, AWS EC2 배포를 배우면 직접 만든 사이트를 배포할 예정입니다. 
+제출해주신 **명함을 4월 6일에 진행되는 중앙세션에서 "각자" 자랑**하고자 합니다. **개발자도구의 사용법**을 안다면, 잘 만들어진 웹 페이지를 보고 HTML과 CSS가 어떻게 적용되어 있는지 알 수 있고 css나 html을 실시간으로 수정 및 확인 할 수 있으니, 참고하시면 좋습니다. 장고를 배우면 해당 웹페이지를 응답하는 웹 서버를 제작할 예정이며, AWS EC2 배포를 배우면 직접 만든 사이트를 배포할 예정입니다. 
 
 <kbd>![예시1](Example1.png)</kbd>
 
@@ -26,8 +26,8 @@
 <kbd>![예시2](Example2.png)</kbd>
 
 ### 제출방법 및 기한
-팀별 레포지터리에 week0/이름 으로 폴더를 만들고 index.html, styles.css 를 **3월 30일 밤 11:59**까지 업로드 해주세요. 
-- ex) week0/이정재/index.html, week0/이정재/styles.css
+팀별 레포지터리에 이름/week1 으로 폴더를 만들고 index.html, styles.css 를 **4월 5일 밤 11:59**까지 업로드 해주세요. 
+- ex) 이정재/week1/index.html, 이정재/week1/styles.css
 
 ### 참고할만한 사이트
 - [웹에디터 코드샌드박스(Vanila JS로 생성 및 작업)](https://codesandbox.io/)

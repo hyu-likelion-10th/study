@@ -8,11 +8,11 @@
   #### 0~1 숙련도 문제 
   - [three_five - 10점](https://github.com/CogWorksBWSI/PythonHW/blob/master/three_five/HW_three_five_threefive.ipynb) 
   - [palindrome - 15점](https://github.com/CogWorksBWSI/PythonHW/blob/master/palindrome/HW_palindrome.ipynb)
-  - [문자열 압축 - 20점](https://programmers.co.kr/learn/courses/30/lessons/60057)
+  - [2021년도 카카오 공채 1번 - 20점](https://programmers.co.kr/learn/courses/30/lessons/72410)
   #### 2~4 숙련도 문제
   - [palindrome - 10점](https://github.com/CogWorksBWSI/PythonHW/blob/master/palindrome/HW_palindrome.ipynb)
-  - [문자열 압축 - 15점](https://programmers.co.kr/learn/courses/30/lessons/60057)
-  - [2021년도 카카오 공채 1번 - 20점](https://programmers.co.kr/learn/courses/30/lessons/72410)
+  - [2021년도 카카오 공채 1번 - 15점](https://programmers.co.kr/learn/courses/30/lessons/72410)
+  - [문자열 압축 - 20점](https://programmers.co.kr/learn/courses/30/lessons/60057)
 ### 조건
 
 1. 구글링은 자유롭게 사용 할 수 있지만, 유사한 문제의 코드를 보는 것은 `금지`입니다.   

@@ -30,12 +30,10 @@
 <img width="213" alt="KakaoTalk_20220524_153434737_01" src="https://user-images.githubusercontent.com/81216385/170215464-8f8459c4-de23-470e-9d48-1be6684b56cd.png">
 <img width="150" alt="KakaoTalk_20220524_153434737" src="https://user-images.githubusercontent.com/81216385/170213816-2a686932-d7fd-4026-9df7-1b4b6c77cec6.png">
 
-------------
 
 # restful api 요약 #
 > restful api에 대해 공부하고, 공부한 내용을 정리하여 readme 파일로 git에 업로드
 
-------------
 
 # 다음 주 세션까지 들어와야 할 강의 #
 

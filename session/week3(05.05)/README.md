@@ -23,6 +23,11 @@
 - result.html : 설문조사 응답 결과 화면
 - new.html : 새로운 설문 문항 작성 화면
 
+<img width="251" alt="KakaoTalk_20220524_153434737_02" src="https://user-images.githubusercontent.com/81216385/170213809-ea3f6efb-4e00-4af9-bd97-21298f953588.png">
+<img width="184" alt="KakaoTalk_20220524_153434737_03" src="https://user-images.githubusercontent.com/81216385/170213813-187b9099-a8ab-45ac-aebe-798f94ccefb1.png">
+<img width="266" alt="KakaoTalk_20220524_153434737_04" src="https://user-images.githubusercontent.com/81216385/170213814-153dd7fe-6c86-4e63-88f3-eef4e75e32a0.png">
+<img width="93" alt="KakaoTalk_20220524_153434737" src="https://user-images.githubusercontent.com/81216385/170213816-2a686932-d7fd-4026-9df7-1b4b6c77cec6.png">
+
 ------------
 
 # restful api 요약 #

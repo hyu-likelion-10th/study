@@ -2,12 +2,12 @@
 > 1. survey app 과 accounts app을 생성 (앱 이름은 자유)
 > 2. 유저를 생성 (createsuperuser 이용)
 
-## <accounts app> ##
+## accounts app ##
 1. views.py -  로그인, 로그아웃 기능 구현
  
 2. templates -  login.html (로그인하는 화면)
  
-## <survey app> ##
+## survey app ##
 1. models.py - 기존의 survey모델과 answer모델
 
 2. views.py

@@ -23,7 +23,6 @@
 - result.html : 설문조사 응답 결과 화면
 - new.html : 새로운 설문 문항 작성 화면
 
-------------
 ## 예시 화면 ##
 
 <img width="250" alt="KakaoTalk_20220524_153434737_02" src="https://user-images.githubusercontent.com/81216385/170213809-ea3f6efb-4e00-4af9-bd97-21298f953588.png"><img width="200" alt="KakaoTalk_20220524_153434737_04" src="https://user-images.githubusercontent.com/81216385/170213814-153dd7fe-6c86-4e63-88f3-eef4e75e32a0.png">

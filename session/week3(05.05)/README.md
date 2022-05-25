@@ -4,7 +4,9 @@
 
 ## <accounts app> ##
 1. views.py -  로그인, 로그아웃 기능 구현
+ 
 2. templates -  login.html (로그인하는 화면)
+ 
 ## <survey app> ##
 1. models.py - 기존의 survey모델과 answer모델
 

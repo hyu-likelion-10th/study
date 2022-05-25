@@ -1,4 +1,4 @@
-# [설문조사 프로젝트 확장 구현] - 문항이 여러 개인 Survey 페이지 #
+# 설문조사 프로젝트 확장 구현- 문항이 여러 개인 Survey 페이지 #
 > 1. survey app 과 accounts app을 생성 (앱 이름은 자유)
 > 2. 유저를 생성 (createsuperuser 이용)
 
@@ -25,7 +25,7 @@
 
 ------------
 
-# [restful api 요약] #
+# restful api 요약 #
 > restful api에 대해 공부하고, 공부한 내용을 정리하여 readme 파일로 git에 업로드
 
 ------------
